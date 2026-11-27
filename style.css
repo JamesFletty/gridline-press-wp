@@ -1,0 +1,16 @@
+/*
+Theme Name:        Gridline Press
+Theme URI:         https://gridline-press.example/
+Author:            James Fletty
+Description:       A hand-built Swiss-modernist theme for an art and architecture publisher with a gallery. Book and event post types, an imprint taxonomy, native ISBN / edition / page-count / event-date meta boxes, a filterable and sortable catalogue built on WP_Query, a cached read-only REST endpoint (/wp-json/gridline/v1/catalog), a dynamic "upcoming events" block, generated geometric covers, theme.json tokens, and zero page-builder or jQuery dependencies.
+Version:           1.0.0
+Requires at least: 6.5
+Tested up to:      6.7
+Requires PHP:      8.1
+License:           GNU General Public License v2 or later
+License URI:       https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain:       gridline
+Tags:              portfolio, blog, grid-layout, custom-colors, custom-menu, editor-style, translation-ready, accessibility-ready
+*/
+
+/* Front-end styles live in assets/css/ and are enqueued from inc/assets.php. */
